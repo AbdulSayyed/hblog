@@ -68,3 +68,15 @@ main:
         name: lightbulb
         color: orange
       description: Suggest new or updated features.
+
+# main:
+#   - name: About
+#     identifier: about
+#     weight: 80
+#     url: https://github.com/AbdulSayyed/hblog/about/
+#     Params:
+#       header: About me
+#       icon:
+#         vendor: font-awesome-solid
+#         name: headset
+
